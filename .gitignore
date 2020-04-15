@@ -1,0 +1,22 @@
+*.pyc
+*.py~
+.DS_Store
+.cache
+.pytest_cache/
+__pycache__/
+.ipynb_checkpoints/
+
+Banana.app/
+
+# Setuptools distribution and build folders.
+/dist/
+/build
+
+# Virtualenv
+/env
+
+# Copy
+* copy.*
+* copy
+Terminal Saved Output
+*.log
